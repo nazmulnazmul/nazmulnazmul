@@ -1,13 +1,13 @@
 https://media.licdn.com/dms/image/D5616AQGQoHZpSCmpeQ/profile-displaybackgroundimage-shrink_350_1400/0/1678124417846?e=1704326400&v=beta&t=leGJAi9HdJ0HbKMytr6AzeBjP1rsRb0kJzOX9mcFIAc
 
-## Hi there 👋, my name is Nazmul
+## Hi there 👋, I'm Nazmul
 #### 👑 I am a Web Developer
 #### 🖊️ Love to write code & learning
 #### 🎤 Like to share my knowledge
 
 ## 🚀 About Me 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-## 👨‍💻 Skills & Experiance:
+## 👨‍💻 Skills & Experience:
 
 ✅ HTML5 / CSS3 / Bootstrap
 ✅ JAVASCRIPT / JQUERY
