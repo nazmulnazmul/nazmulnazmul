@@ -1,11 +1,12 @@
 ![I am a Web Developer ](gif3.gif)
 
 ### Hi there 👋, my name is Nazmul
-#### I am a Web Developer 
+##### ♦️ I am a Web Developer 
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills:  HTML / CSS / CSS3 / BOOTSTRAP / JAVASCRIPT / JQUERY / PHP / OOP / LARAVEL
+Skills:  HTML / CSS/CCS3/BOOTSTRAP/JAVASCRIPT/JQUERY/PHP/OOP/LARAVEL
 
 - 🔭 I’m currently working on this page. 
 
