@@ -7,12 +7,12 @@
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 ## 👨‍💻 Skills & Experience:
 
-✅ HTML5 / CSS3 / Bootstrap
+✅ HTML5 / CSS3 / Bootstrap <br>
 ✅ JAVASCRIPT / JQUERY
 ✅ PHP / MYSQL / OOP / LARAVEL
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 
 
 ## ☕ Connect with me!
