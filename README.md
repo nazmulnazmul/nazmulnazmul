@@ -1,5 +1,3 @@
-(https://media.licdn.com/dms/image/D5616AQGQoHZpSCmpeQ/profile-displaybackgroundimage-shrink_350_1400/0/1678124417846?e=1704326400&v=beta&t=leGJAi9HdJ0HbKMytr6AzeBjP1rsRb0kJzOX9mcFIAc)
-
 ## Hi there 👋, I'm Nazmul
 #### 👑 I am a Web Developer
 #### 🖊️ Love to write code & learning
