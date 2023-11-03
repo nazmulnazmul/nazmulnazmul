@@ -12,6 +12,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ✅ HTML5 / CSS3 / Bootstrap
 ✅ JAVASCRIPT / JQUERY
 ✅ PHP / MYSQL / OOP / LARAVEL
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
