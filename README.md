@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nazmul
-<p>👑 I am a Web Developer
- 🖊️ Love to write code & learning
+<p>👑 I am a Web Developer<br>
+ 🖊️ Love to write code & learning<br>
  🎤 Like to share my knowledge</p>
 
 ## 🚀 About Me 
