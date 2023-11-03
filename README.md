@@ -8,7 +8,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ## 👨‍💻 Skills & Experience:
 
 ✅ HTML5 / CSS3 / Bootstrap <br>
-✅ JAVASCRIPT / JQUERY
+✅ JAVASCRIPT / JQUERY <br>
 ✅ PHP / MYSQL / OOP / LARAVEL
 
 
