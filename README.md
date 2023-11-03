@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Nazmul
-#### 👑 I am a Web Developer
-#### 🖊️ Love to write code & learning
-#### 🎤 Like to share my knowledge
+##### 👑 I am a Web Developer
+##### 🖊️ Love to write code & learning
+##### 🎤 Like to share my knowledge
 
 ## 🚀 About Me 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
