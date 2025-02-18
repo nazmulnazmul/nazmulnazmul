@@ -50,6 +50,13 @@
   <img src="https://img.shields.io/badge/Laravel-EA4C89?style=for-the-badge&logo=laravel&logoColor=white">
 </a>
 
+
+### **🛢️ Database:**  
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+
+
 ### **🎯 Version Control:**  
 
 <a href="https://git-scm.com/" target="_blank">
