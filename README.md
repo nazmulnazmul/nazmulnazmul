@@ -33,9 +33,6 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </a>
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-</a>
-<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </a>
 <a href="#" target="_blank">
@@ -44,10 +41,6 @@
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 </a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</a>
-
 
 ### **🖥️ Backend:**  
 <a href="#" target="_blank">
@@ -55,12 +48,6 @@
 </a>
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Laravel-EA4C89?style=for-the-badge&logo=laravel&logoColor=white">
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
 </a>
 
 
