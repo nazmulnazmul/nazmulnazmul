@@ -71,9 +71,8 @@
 ## ☕ Connect with me!
 
 <div>
- 
-   <a href="https://www.facebook.com/nazmul.nahid998"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' target="_blank"></a>
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](mdnazmul1998) 
+   <a href="https://www.facebook.com/nazmul.nahid998" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
+   <a href="https://www.linkedin.com/in/mdnazmul1998/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 
