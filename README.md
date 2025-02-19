@@ -1,5 +1,5 @@
 
-## Hi there 👋, I'm Nazmul
+## Hi there, I'm Nazmul  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>👑 I am a Web Developer<br>
  🖊️ Love to write code & learning<br>
  🎤 Like to share my knowledge</p>
