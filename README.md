@@ -23,6 +23,7 @@
   <img src="https://raw.githubusercontent.com/Md-shefat-masum/Md-shefat-masum/5058c4ebc99f7b373f60683c30ebdd449ac3e0d2/github-user-contribution.svg" alt="Snake animation">
 </p>
 
+
 ## 🛠️ Tech Stack  
 
 ### **🌐 Frontend:**  
@@ -67,15 +68,14 @@
 </a>
 
 
-
 ## ☕ Connect with me!
-
 <div>
    <a href="https://www.facebook.com/nazmul.nahid998" target="_blank">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
     <img src="https://img.shields.io/badge/-FaceBook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white">
    </a>
-   <a href="https://www.linkedin.com/in/mdnazmul1998/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/mdnazmul1998/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
 </div>
 
 
