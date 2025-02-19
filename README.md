@@ -5,7 +5,7 @@
  🎤 Like to share my knowledge</p>
 
 
-<div align="center">
+<div align="">
   <div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 10px; width: 100%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
     <h2 style="font-family: Arial, sans-serif; color: #333;">About Me</h2>
     <p style="font-family: Arial, sans-serif; color: #555;">
